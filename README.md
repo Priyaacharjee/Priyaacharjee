@@ -1,4 +1,4 @@
-![logo](https://github.com/Priyaacharjee/Priyaacharjee/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/Priyaacharjee/Priyaacharjee/blob/main/github-header-image%20(4).png)
 <h1 align="center">Hi 👋, I'm Priya Acharjee</h1>
 <h3 align="center">"Code Alchemist | Innovating One Commit at a Time"</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
