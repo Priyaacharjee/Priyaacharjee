@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rushikaacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushikaacharjee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priya acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya acharjee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priya-acharjee-ba4119228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya acharjee" height="30" width="40" /></a>
 <a href="https://fb.com/priya acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priya acharjee" height="30" width="40" /></a>
 <a href="https://instagram.com/priyaacharjee_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyaacharjee_19" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cse14800121019" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cse14800121019" height="30" width="40" /></a>
