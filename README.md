@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **priyaacharjee2001@gmail.com**
 
-- 📄 Know about my experiences [Priya Acharjee_CV](Priya Acharjee_CV)
+- 📄 Know about my experiences [Priya Acharjee_CV](https://drive.google.com/drive/folders/1PaQCLSNC2uAIEgchyQD4CSFJOLwcl0Y1)
 
 - ⚡ Fun fact **I once debugged an entire project with nothing but coffee and sheer determination!**
 
